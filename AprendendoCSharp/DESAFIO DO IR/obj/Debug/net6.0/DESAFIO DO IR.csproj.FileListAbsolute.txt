@@ -1,0 +1,15 @@
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO DO IR\obj\Debug\net6.0\DESAFIO DO IR.csproj.AssemblyReference.cache
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO DO IR\obj\Debug\net6.0\DESAFIO DO IR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO DO IR\obj\Debug\net6.0\DESAFIO DO IR.AssemblyInfoInputs.cache
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO DO IR\obj\Debug\net6.0\DESAFIO DO IR.AssemblyInfo.cs
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO DO IR\obj\Debug\net6.0\DESAFIO DO IR.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO DO IR\bin\Debug\net6.0\DESAFIO DO IR.exe
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO DO IR\bin\Debug\net6.0\DESAFIO DO IR.deps.json
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO DO IR\bin\Debug\net6.0\DESAFIO DO IR.runtimeconfig.json
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO DO IR\bin\Debug\net6.0\DESAFIO DO IR.dll
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO DO IR\bin\Debug\net6.0\DESAFIO DO IR.pdb
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO DO IR\obj\Debug\net6.0\DESAFIO DO IR.dll
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO DO IR\obj\Debug\net6.0\refint\DESAFIO DO IR.dll
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO DO IR\obj\Debug\net6.0\DESAFIO DO IR.pdb
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO DO IR\obj\Debug\net6.0\DESAFIO DO IR.genruntimeconfig.cache
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO DO IR\obj\Debug\net6.0\ref\DESAFIO DO IR.dll

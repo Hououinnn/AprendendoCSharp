@@ -1,0 +1,15 @@
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.exe
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.deps.json
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.runtimeconfig.json
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.dll
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\ConversoesEOutrosTipos\bin\Debug\net6.0\ConversoesEOutrosTipos.pdb
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.csproj.AssemblyReference.cache
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.AssemblyInfoInputs.cache
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.AssemblyInfo.cs
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.dll
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\refint\ConversoesEOutrosTipos.dll
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.pdb
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ConversoesEOutrosTipos.genruntimeconfig.cache
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\ConversoesEOutrosTipos\obj\Debug\net6.0\ref\ConversoesEOutrosTipos.dll

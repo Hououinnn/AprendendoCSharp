@@ -1,0 +1,15 @@
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\p10-Laços de repetição\bin\Debug\net6.0\p10-Laços de repetição.exe
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\p10-Laços de repetição\bin\Debug\net6.0\p10-Laços de repetição.deps.json
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\p10-Laços de repetição\bin\Debug\net6.0\p10-Laços de repetição.runtimeconfig.json
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\p10-Laços de repetição\bin\Debug\net6.0\p10-Laços de repetição.dll
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\p10-Laços de repetição\bin\Debug\net6.0\p10-Laços de repetição.pdb
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\p10-Laços de repetição\obj\Debug\net6.0\p10-Laços de repetição.csproj.AssemblyReference.cache
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\p10-Laços de repetição\obj\Debug\net6.0\p10-Laços de repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\p10-Laços de repetição\obj\Debug\net6.0\p10-Laços de repetição.AssemblyInfoInputs.cache
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\p10-Laços de repetição\obj\Debug\net6.0\p10-Laços de repetição.AssemblyInfo.cs
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\p10-Laços de repetição\obj\Debug\net6.0\p10-Laços de repetição.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\p10-Laços de repetição\obj\Debug\net6.0\p10-Laços de repetição.dll
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\p10-Laços de repetição\obj\Debug\net6.0\refint\p10-Laços de repetição.dll
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\p10-Laços de repetição\obj\Debug\net6.0\p10-Laços de repetição.pdb
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\p10-Laços de repetição\obj\Debug\net6.0\p10-Laços de repetição.genruntimeconfig.cache
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\p10-Laços de repetição\obj\Debug\net6.0\ref\p10-Laços de repetição.dll

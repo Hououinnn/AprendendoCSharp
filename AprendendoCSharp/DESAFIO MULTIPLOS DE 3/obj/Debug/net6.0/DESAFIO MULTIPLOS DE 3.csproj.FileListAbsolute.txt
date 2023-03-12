@@ -1,0 +1,15 @@
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO MULTIPLOS DE 3\bin\Debug\net6.0\DESAFIO MULTIPLOS DE 3.exe
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO MULTIPLOS DE 3\bin\Debug\net6.0\DESAFIO MULTIPLOS DE 3.deps.json
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO MULTIPLOS DE 3\bin\Debug\net6.0\DESAFIO MULTIPLOS DE 3.runtimeconfig.json
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO MULTIPLOS DE 3\bin\Debug\net6.0\DESAFIO MULTIPLOS DE 3.dll
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO MULTIPLOS DE 3\bin\Debug\net6.0\DESAFIO MULTIPLOS DE 3.pdb
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO MULTIPLOS DE 3\obj\Debug\net6.0\DESAFIO MULTIPLOS DE 3.csproj.AssemblyReference.cache
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO MULTIPLOS DE 3\obj\Debug\net6.0\DESAFIO MULTIPLOS DE 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO MULTIPLOS DE 3\obj\Debug\net6.0\DESAFIO MULTIPLOS DE 3.AssemblyInfoInputs.cache
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO MULTIPLOS DE 3\obj\Debug\net6.0\DESAFIO MULTIPLOS DE 3.AssemblyInfo.cs
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO MULTIPLOS DE 3\obj\Debug\net6.0\DESAFIO MULTIPLOS DE 3.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO MULTIPLOS DE 3\obj\Debug\net6.0\DESAFIO MULTIPLOS DE 3.dll
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO MULTIPLOS DE 3\obj\Debug\net6.0\refint\DESAFIO MULTIPLOS DE 3.dll
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO MULTIPLOS DE 3\obj\Debug\net6.0\DESAFIO MULTIPLOS DE 3.pdb
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO MULTIPLOS DE 3\obj\Debug\net6.0\DESAFIO MULTIPLOS DE 3.genruntimeconfig.cache
+C:\Users\Leonardo Ritchock\source\repos\AprendendoCSharp\DESAFIO MULTIPLOS DE 3\obj\Debug\net6.0\ref\DESAFIO MULTIPLOS DE 3.dll
